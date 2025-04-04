@@ -1,0 +1,32 @@
+{
+  "data": {
+    "resident_name": "Samuel Adams",
+    "facility_fax": "(562) 800-0318",
+    "facility_name": "Mom & Dad's House - Cottage",
+    "facility_pone": "(562) 354-6977",
+    "licensee_name": "Blue Horizon Homes",
+    "facility_address": "5413 E. Conant St. Long Beach CA 90808",
+    "facility_license": "198602568",
+    "licensee_contact_fax": "(562) 800-0318",
+    "licensee_contact_name": "Ivonne Meader",
+    "licensee_contact_email": "meaderiv@mndhouse.com",
+    "licensee_contact_phone": "(949) 381-1792",
+    "licensee_contact_mailing_address": "12340 Seal Beach Blvd. Suite B - Box # 401 Seal Beach CA 90740",
+    "hospice_company_information": {
+      "hospice_company_name": "Hospice Company Inc.",
+      "hospice_license_number": "000-000-0000",
+      "hospice_business_telephone_number": "562-988-3370",
+      "hospice_company_address": "14023 Paramount Blvd. CA 90723",
+      "hospice_contact_person": "Pepito Perez",
+      "hospice_contact_phone_number": "562-988-3370",
+      "hospice_contact_email_address": "example@mail.com",
+      "emergency_contact_person" : "John Doe",
+      "24_hour_emergency_telephone_number": "(562) 988-3370",
+      "resident_physician": "Dr. John Smith",
+      "resident_physician_business_address": "4567 Long Beach Blvd. CA 95558",
+      "resident_physician_phone_number": "(562) 555-1234",
+      "resident_physician_24_hour_emergency_phone_number" : "(562) 555-1234"
+
+    }
+  }
+}
